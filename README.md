@@ -26,6 +26,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
 
+## Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=pedromoreira49&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoreira49&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 ## Contatos:
 
 <div align="center">
