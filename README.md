@@ -2,6 +2,10 @@
 
 # Olá, eu sou Pedro Moreira! 👋
 
+Este perfil está disponível em:
+- 🇧🇷 [Português](README.md)
+- 🇺🇸 [Inglês](README.en.md)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedromoreira49&color=blueviolet" alt="Visitantes" />
 </p>
