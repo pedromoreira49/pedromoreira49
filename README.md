@@ -14,7 +14,7 @@ I am a developer passionate about technology and innovation. I'm 24 years old an
 
 Here are some of the technologies I have experience with:
 
-![Tecnologias](https://skillicons.dev/icons?i=nodejs,express,php,laravel,js,ts,react,python,docker,linux,windows)
+![Tecnologias](https://skillicons.dev/icons?i=,nodejs,express,php,laravel,js,ts,react,python,docker,linux,windows,git,github)
 
 ## 📈 Github Stats
 
