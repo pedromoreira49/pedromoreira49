@@ -7,22 +7,19 @@
 </p>
 
 ## About me
+
 I am a developer passionate about technology and innovation. I'm 24 years old and I love exploring new technologies and solving complex problems.
 
 ## 🚀 Technologies
+
 Here are some of the technologies I have experience with:
 
-![Tecnologias](https://skillicons.dev/icons?i=git,nodejs,spring,laravel,php,react,ts,java,javascript,linux,python,docker)
+![Tecnologias](https://skillicons.dev/icons?i=nodejs,express,php,laravel,js,ts,react,python,docker,linux,windows)
 
 ## 📈 Github Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromoreira49&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoreira49&layout=compact&theme=radical" />
-</p>
 
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedromoreira49&theme=radical" alt="GitHub Trophies" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoreira49&layout=compact&theme=radical" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
