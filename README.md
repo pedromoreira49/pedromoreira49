@@ -11,18 +11,18 @@
 
 ## 💡 What I'm currently up to
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+AI+projects+🤖;Exploring+Distributed+Systems+⚡;Always+learning+new+things+📚)](https://git.io/typing-svg)
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+AI+projects+🤖;Exploring+Distributed+Systems+⚡;Always+learning+new+things+📚)](https://git.io/typing-svg)
+</div>
 
 ## 🚀 Technologies & Tools
 
-**Languages**  
-![JavaScript](https://skillicons.dev/icons?i=js,ts,python,php)  
+<div align="center">
 
-**Frameworks & Libraries**  
-![React](https://skillicons.dev/icons?i=react,express,laravel,nodejs)  
+![Languages](https://skillicons.dev/icons?i=nodejs,express,php,laravel,js,ts,react,python,docker,linux,windows,git,github)
 
-**DevOps & Tools**  
-![Docker](https://skillicons.dev/icons?i=docker,linux,git,github,windows)
+</div>
 
 ## 📈 Github Stats
 
