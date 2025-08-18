@@ -3,6 +3,8 @@
 # Hi! I am Pedro Moreira
 
 ## 👨‍💻 About Me
+- 🖥️ Graduated in Internet Systems
+- ⚡ Bachelor's student in Eletrical Engineering
 - 🎓 Master's student in Electronic and Computer Engineering  
 - 💼 Currently working as a software engineer  
 - 🔭 Interested in AI, IoT, and distributed systems  
