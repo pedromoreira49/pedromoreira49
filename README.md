@@ -1,25 +1,44 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-# Hi! I am Pedro Moreira! 👋
+# Hi! I am Pedro Moreira
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedromoreira49&color=blueviolet" alt="Visitors" />
-</p>
+## 👨‍💻 About Me
+- 🎓 Master's student in Electronic and Computer Engineering  
+- 💼 Currently working as a software engineer  
+- 🔭 Interested in AI, IoT, and distributed systems  
+- 🚀 Building projects in PHP, Laravel, Nodejs and Python  
+- 📚 Always learning and experimenting with new technologies
 
-## About me
+## 💡 What I'm currently up to
 
-I am a developer passionate about technology and innovation. I'm 24 years old and I love exploring new technologies and solving complex problems.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+AI+projects+🤖;Exploring+Distributed+Systems+⚡;Always+learning+new+things+📚)](https://git.io/typing-svg)
 
-## 🚀 Technologies
+## 🚀 Technologies & Tools
 
-Here are some of the technologies I have experience with:
+**Languages**  
+![JavaScript](https://skillicons.dev/icons?i=js,ts,python,php)  
 
-![Tecnologias](https://skillicons.dev/icons?i=,nodejs,express,php,laravel,js,ts,react,python,docker,linux,windows,git,github)
+**Frameworks & Libraries**  
+![React](https://skillicons.dev/icons?i=react,express,laravel,nodejs)  
+
+**DevOps & Tools**  
+![Docker](https://skillicons.dev/icons?i=docker,linux,git,github,windows)
 
 ## 📈 Github Stats
 
 <p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pedromoreira49&show_icons=true&theme=radical" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoreira49&layout=compact&theme=radical" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedromoreira49&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedromoreira49&color=blueviolet" alt="Visitors" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
