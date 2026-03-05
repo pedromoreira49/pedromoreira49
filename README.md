@@ -1,46 +1,50 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&animation=fadeIn"/>
 
-# Hi! I am Pedro Moreira
+# ⚡ Software Engineer | M.Sc. Student | Electrical Engineering
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Embedded+Systems+&+IoT+🔌;AI+and+Computer+Vision+👁️‍🗨️" alt="Typing SVG" />
+</div>
 
 ## 👨‍💻 About Me
-- 🖥️ Graduated in Internet Systems
-- ⚡ Bachelor's student in Eletrical Engineering
-- 🎓 Master's student in Electronic and Computer Engineering  
-- 💼 Currently working as a software engineer  
-- 🔭 Interested in AI, IoT, and distributed systems  
-- 🚀 Building projects in PHP, Laravel, Nodejs and Python  
-- 📚 Always learning and experimenting with new technologies
+I am a developer focused on the integration between software and hardware. My background combines experience in web systems with in-depth academic training in engineering.
 
-## 💡 What I'm currently up to
+* 🎓 **Master's student in Electronic and Computer Engineering**
+* ⚡ **Undergraduate student in Electrical Engineering**
+* 🖥️ **Technologist in Internet Systems**
+* 💼 **Role:** Software Engineer
+
+---
+
+## 🛠️ Technologies and Tools
+
+### 🌐 Stack de Software
+![Languages](https://skillicons.dev/icons?i=php,laravel,java,nodejs,bash,c,python,mysql,postgresql)
+
+### 🔌 Hardware & Infra
+![Tools](https://skillicons.dev/icons?i=arduino,raspberrypi,docker,linux,git,github,vscode,windows)
+
+### 🚀 Studying
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial intelligence-8A2BE2?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT & Embedded Systems-4B0082?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed Systems-6A5ACD?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📫 Let's connect?
+<p align="left">
+  <a href="www.linkedin.com/in/jpedrosmoreira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contato.jpedrosmoreira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+AI+projects+🤖;Exploring+Distributed+Systems+⚡;Always+learning+new+things+📚)](https://git.io/typing-svg)
+  <img src="https://komarev.com/ghpvc/?username=pedromoreira49&color=8A2BE2&style=flat-square" alt="Visitors" />
 </div>
-
-## 🚀 Technologies & Tools
-
-<div align="center">
-
-![Languages](https://skillicons.dev/icons?i=nodejs,express,php,laravel,js,ts,react,python,docker,linux,windows,git,github)
-
-</div>
-
-## 📈 Github Stats
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pedromoreira49&show_icons=true&theme=radical" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoreira49&layout=compact&theme=radical" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedromoreira49&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedromoreira49&color=blueviolet" alt="Visitors" />
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
